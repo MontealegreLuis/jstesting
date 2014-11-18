@@ -1,0 +1,870 @@
+[
+    {
+        "value": "1",
+        "label": "Acajete"
+    },
+    {
+        "value": "2",
+        "label": "Acateno"
+    },
+    {
+        "value": "3",
+        "label": "Acatl\u00e1n"
+    },
+    {
+        "value": "4",
+        "label": "Acatzingo"
+    },
+    {
+        "value": "5",
+        "label": "Acteopan"
+    },
+    {
+        "value": "6",
+        "label": "Ahuacatl\u00e1n"
+    },
+    {
+        "value": "7",
+        "label": "Ahuatl\u00e1n"
+    },
+    {
+        "value": "8",
+        "label": "Ahuazotepec"
+    },
+    {
+        "value": "9",
+        "label": "Ahuehuetitla"
+    },
+    {
+        "value": "10",
+        "label": "Ajalpan"
+    },
+    {
+        "value": "11",
+        "label": "Albino Zertuche"
+    },
+    {
+        "value": "12",
+        "label": "Aljojuca"
+    },
+    {
+        "value": "13",
+        "label": "Altepexi"
+    },
+    {
+        "value": "14",
+        "label": "Amixtl\u00e1n"
+    },
+    {
+        "value": "15",
+        "label": "Amozoc"
+    },
+    {
+        "value": "16",
+        "label": "Aquixtla"
+    },
+    {
+        "value": "17",
+        "label": "Atempan"
+    },
+    {
+        "value": "18",
+        "label": "Atexcal"
+    },
+    {
+        "value": "19",
+        "label": "Atlixco"
+    },
+    {
+        "value": "20",
+        "label": "Atoyatempan"
+    },
+    {
+        "value": "21",
+        "label": "Atzala"
+    },
+    {
+        "value": "22",
+        "label": "Atzitzihuac\u00e1n"
+    },
+    {
+        "value": "23",
+        "label": "Atzitzintla"
+    },
+    {
+        "value": "24",
+        "label": "Axutla"
+    },
+    {
+        "value": "25",
+        "label": "Ayotoxco de Guerrero"
+    },
+    {
+        "value": "26",
+        "label": "Calpan"
+    },
+    {
+        "value": "27",
+        "label": "Caltepec"
+    },
+    {
+        "value": "28",
+        "label": "Camocuautla"
+    },
+    {
+        "value": "29",
+        "label": "Caxhuacan"
+    },
+    {
+        "value": "30",
+        "label": "Coatepec"
+    },
+    {
+        "value": "31",
+        "label": "Coatzingo"
+    },
+    {
+        "value": "32",
+        "label": "Cohetzala"
+    },
+    {
+        "value": "33",
+        "label": "Cohuecan"
+    },
+    {
+        "value": "34",
+        "label": "Coronango"
+    },
+    {
+        "value": "35",
+        "label": "Coxcatl\u00e1n"
+    },
+    {
+        "value": "36",
+        "label": "Coyomeapan"
+    },
+    {
+        "value": "37",
+        "label": "Coyotepec"
+    },
+    {
+        "value": "38",
+        "label": "Cuapiaxtla de Madero"
+    },
+    {
+        "value": "39",
+        "label": "Cuautempan"
+    },
+    {
+        "value": "40",
+        "label": "Cuautinch\u00e1n"
+    },
+    {
+        "value": "41",
+        "label": "Cuautlancingo"
+    },
+    {
+        "value": "42",
+        "label": "Cuayuca de Andrade"
+    },
+    {
+        "value": "43",
+        "label": "Cuetzalan del Progreso"
+    },
+    {
+        "value": "44",
+        "label": "Cuyoaco"
+    },
+    {
+        "value": "45",
+        "label": "Chalchicomula de Sesma"
+    },
+    {
+        "value": "46",
+        "label": "Chapulco"
+    },
+    {
+        "value": "47",
+        "label": "Chiautla"
+    },
+    {
+        "value": "48",
+        "label": "Chiautzingo"
+    },
+    {
+        "value": "49",
+        "label": "Chiconcuautla"
+    },
+    {
+        "value": "50",
+        "label": "Chichiquila"
+    },
+    {
+        "value": "51",
+        "label": "Chietla"
+    },
+    {
+        "value": "52",
+        "label": "Chigmecatitl\u00e1n"
+    },
+    {
+        "value": "53",
+        "label": "Chignahuapan"
+    },
+    {
+        "value": "54",
+        "label": "Chignautla"
+    },
+    {
+        "value": "55",
+        "label": "Chila"
+    },
+    {
+        "value": "56",
+        "label": "Chila de la Sal"
+    },
+    {
+        "value": "57",
+        "label": "Honey"
+    },
+    {
+        "value": "58",
+        "label": "Chilchotla"
+    },
+    {
+        "value": "59",
+        "label": "Chinantla"
+    },
+    {
+        "value": "60",
+        "label": "Domingo Arenas"
+    },
+    {
+        "value": "61",
+        "label": "Eloxochitl\u00e1n"
+    },
+    {
+        "value": "62",
+        "label": "Epatl\u00e1n"
+    },
+    {
+        "value": "63",
+        "label": "Esperanza"
+    },
+    {
+        "value": "64",
+        "label": "Francisco Z. Mena"
+    },
+    {
+        "value": "65",
+        "label": "General Felipe \u00c1ngeles"
+    },
+    {
+        "value": "66",
+        "label": "Guadalupe"
+    },
+    {
+        "value": "67",
+        "label": "Guadalupe Victoria"
+    },
+    {
+        "value": "68",
+        "label": "Hermenegildo Galeana"
+    },
+    {
+        "value": "69",
+        "label": "Huaquechula"
+    },
+    {
+        "value": "70",
+        "label": "Huatlatlauca"
+    },
+    {
+        "value": "71",
+        "label": "Huauchinango"
+    },
+    {
+        "value": "72",
+        "label": "Huehuetla"
+    },
+    {
+        "value": "73",
+        "label": "Huehuetl\u00e1n el Chico"
+    },
+    {
+        "value": "74",
+        "label": "Huejotzingo"
+    },
+    {
+        "value": "75",
+        "label": "Hueyapan"
+    },
+    {
+        "value": "76",
+        "label": "Hueytamalco"
+    },
+    {
+        "value": "77",
+        "label": "Hueytlalpan"
+    },
+    {
+        "value": "78",
+        "label": "Huitzilan de Serd\u00e1n"
+    },
+    {
+        "value": "79",
+        "label": "Huitziltepec"
+    },
+    {
+        "value": "80",
+        "label": "Atlequizayan"
+    },
+    {
+        "value": "81",
+        "label": "Ixcamilpa de Guerrero"
+    },
+    {
+        "value": "82",
+        "label": "Ixcaquixtla"
+    },
+    {
+        "value": "83",
+        "label": "Ixtacamaxtitl\u00e1n"
+    },
+    {
+        "value": "84",
+        "label": "Ixtepec"
+    },
+    {
+        "value": "85",
+        "label": "Iz\u00facar de Matamoros"
+    },
+    {
+        "value": "86",
+        "label": "Jalpan"
+    },
+    {
+        "value": "87",
+        "label": "Jolalpan"
+    },
+    {
+        "value": "88",
+        "label": "Jonotla"
+    },
+    {
+        "value": "89",
+        "label": "Jopala"
+    },
+    {
+        "value": "90",
+        "label": "Juan C. Bonilla"
+    },
+    {
+        "value": "91",
+        "label": "Juan Galindo"
+    },
+    {
+        "value": "92",
+        "label": "Juan N. M\u00e9ndez"
+    },
+    {
+        "value": "93",
+        "label": "Lafragua"
+    },
+    {
+        "value": "94",
+        "label": "Libres"
+    },
+    {
+        "value": "95",
+        "label": "La Magdalena Tlatlauquitepec"
+    },
+    {
+        "value": "96",
+        "label": "Mazapiltepec de Ju\u00e1rez"
+    },
+    {
+        "value": "97",
+        "label": "Mixtla"
+    },
+    {
+        "value": "98",
+        "label": "Molcaxac"
+    },
+    {
+        "value": "99",
+        "label": "Ca\u00f1ada Morelos"
+    },
+    {
+        "value": "100",
+        "label": "Naupan"
+    },
+    {
+        "value": "101",
+        "label": "Nauzontla"
+    },
+    {
+        "value": "102",
+        "label": "Nealtican"
+    },
+    {
+        "value": "103",
+        "label": "Nicol\u00e1s Bravo"
+    },
+    {
+        "value": "104",
+        "label": "Nopalucan"
+    },
+    {
+        "value": "105",
+        "label": "Ocotepec"
+    },
+    {
+        "value": "106",
+        "label": "Ocoyucan"
+    },
+    {
+        "value": "107",
+        "label": "Olintla"
+    },
+    {
+        "value": "108",
+        "label": "Oriental"
+    },
+    {
+        "value": "109",
+        "label": "Pahuatl\u00e1n"
+    },
+    {
+        "value": "110",
+        "label": "Palmar de Bravo"
+    },
+    {
+        "value": "111",
+        "label": "Pantepec"
+    },
+    {
+        "value": "112",
+        "label": "Petlalcingo"
+    },
+    {
+        "value": "113",
+        "label": "Piaxtla"
+    },
+    {
+        "value": "114",
+        "label": "Puebla"
+    },
+    {
+        "value": "115",
+        "label": "Quecholac"
+    },
+    {
+        "value": "116",
+        "label": "Quimixtl\u00e1n"
+    },
+    {
+        "value": "117",
+        "label": "Rafael Lara Grajales"
+    },
+    {
+        "value": "118",
+        "label": "Los Reyes de Ju\u00e1rez"
+    },
+    {
+        "value": "119",
+        "label": "San Andr\u00e9s Cholula"
+    },
+    {
+        "value": "120",
+        "label": "San Antonio Ca\u00f1ada"
+    },
+    {
+        "value": "121",
+        "label": "San Diego la Mesa Tochimiltzingo"
+    },
+    {
+        "value": "122",
+        "label": "San Felipe Teotlalcingo"
+    },
+    {
+        "value": "123",
+        "label": "San Felipe Tepatl\u00e1n"
+    },
+    {
+        "value": "124",
+        "label": "San Gabriel Chilac"
+    },
+    {
+        "value": "125",
+        "label": "San Gregorio Atzompa"
+    },
+    {
+        "value": "126",
+        "label": "San Jer\u00f3nimo Tecuanipan"
+    },
+    {
+        "value": "127",
+        "label": "San Jer\u00f3nimo Xayacatl\u00e1n"
+    },
+    {
+        "value": "128",
+        "label": "San Jos\u00e9 Chiapa"
+    },
+    {
+        "value": "129",
+        "label": "San Jos\u00e9 Miahuatl\u00e1n"
+    },
+    {
+        "value": "130",
+        "label": "San Juan Atenco"
+    },
+    {
+        "value": "131",
+        "label": "San Juan Atzompa"
+    },
+    {
+        "value": "132",
+        "label": "San Mart\u00edn Texmelucan"
+    },
+    {
+        "value": "133",
+        "label": "San Mart\u00edn Totoltepec"
+    },
+    {
+        "value": "134",
+        "label": "San Mat\u00edas Tlalancaleca"
+    },
+    {
+        "value": "135",
+        "label": "San Miguel Ixitl\u00e1n"
+    },
+    {
+        "value": "136",
+        "label": "San Miguel Xoxtla"
+    },
+    {
+        "value": "137",
+        "label": "San Nicol\u00e1s Buenos Aires"
+    },
+    {
+        "value": "138",
+        "label": "San Nicol\u00e1s de los Ranchos"
+    },
+    {
+        "value": "139",
+        "label": "San Pablo Anicano"
+    },
+    {
+        "value": "140",
+        "label": "San Pedro Cholula"
+    },
+    {
+        "value": "141",
+        "label": "San Pedro Yeloixtlahuaca"
+    },
+    {
+        "value": "142",
+        "label": "San Salvador el Seco"
+    },
+    {
+        "value": "143",
+        "label": "San Salvador el Verde"
+    },
+    {
+        "value": "144",
+        "label": "San Salvador Huixcolotla"
+    },
+    {
+        "value": "145",
+        "label": "San Sebasti\u00e1n Tlacotepec"
+    },
+    {
+        "value": "146",
+        "label": "Santa Catarina Tlaltempan"
+    },
+    {
+        "value": "147",
+        "label": "Santa In\u00e9s Ahuatempan"
+    },
+    {
+        "value": "148",
+        "label": "Santa Isabel Cholula"
+    },
+    {
+        "value": "149",
+        "label": "Santiago Miahuatl\u00e1n"
+    },
+    {
+        "value": "150",
+        "label": "Huehuetl\u00e1n el Grande"
+    },
+    {
+        "value": "151",
+        "label": "Santo Tom\u00e1s Hueyotlipan"
+    },
+    {
+        "value": "152",
+        "label": "Soltepec"
+    },
+    {
+        "value": "153",
+        "label": "Tecali de Herrera"
+    },
+    {
+        "value": "154",
+        "label": "Tecamachalco"
+    },
+    {
+        "value": "155",
+        "label": "Tecomatl\u00e1n"
+    },
+    {
+        "value": "156",
+        "label": "Tehuac\u00e1n"
+    },
+    {
+        "value": "157",
+        "label": "Tehuitzingo"
+    },
+    {
+        "value": "158",
+        "label": "Tenampulco"
+    },
+    {
+        "value": "159",
+        "label": "Teopantl\u00e1n"
+    },
+    {
+        "value": "160",
+        "label": "Teotlalco"
+    },
+    {
+        "value": "161",
+        "label": "Tepanco de L\u00f3pez"
+    },
+    {
+        "value": "162",
+        "label": "Tepango de Rodr\u00edguez"
+    },
+    {
+        "value": "163",
+        "label": "Tepatlaxco de Hidalgo"
+    },
+    {
+        "value": "164",
+        "label": "Tepeaca"
+    },
+    {
+        "value": "165",
+        "label": "Tepemaxalco"
+    },
+    {
+        "value": "166",
+        "label": "Tepeojuma"
+    },
+    {
+        "value": "167",
+        "label": "Tepetzintla"
+    },
+    {
+        "value": "168",
+        "label": "Tepexco"
+    },
+    {
+        "value": "169",
+        "label": "Tepexi de Rodr\u00edguez"
+    },
+    {
+        "value": "170",
+        "label": "Tepeyahualco"
+    },
+    {
+        "value": "171",
+        "label": "Tepeyahualco de Cuauht\u00e9moc"
+    },
+    {
+        "value": "172",
+        "label": "Tetela de Ocampo"
+    },
+    {
+        "value": "173",
+        "label": "Teteles de Avila Castillo"
+    },
+    {
+        "value": "174",
+        "label": "Teziutl\u00e1n"
+    },
+    {
+        "value": "175",
+        "label": "Tianguismanalco"
+    },
+    {
+        "value": "176",
+        "label": "Tilapa"
+    },
+    {
+        "value": "177",
+        "label": "Tlacotepec de Benito Ju\u00e1rez"
+    },
+    {
+        "value": "178",
+        "label": "Tlacuilotepec"
+    },
+    {
+        "value": "179",
+        "label": "Tlachichuca"
+    },
+    {
+        "value": "180",
+        "label": "Tlahuapan"
+    },
+    {
+        "value": "181",
+        "label": "Tlaltenango"
+    },
+    {
+        "value": "182",
+        "label": "Tlanepantla"
+    },
+    {
+        "value": "183",
+        "label": "Tlaola"
+    },
+    {
+        "value": "184",
+        "label": "Tlapacoya"
+    },
+    {
+        "value": "185",
+        "label": "Tlapanal\u00e1"
+    },
+    {
+        "value": "186",
+        "label": "Tlatlauquitepec"
+    },
+    {
+        "value": "187",
+        "label": "Tlaxco"
+    },
+    {
+        "value": "188",
+        "label": "Tochimilco"
+    },
+    {
+        "value": "189",
+        "label": "Tochtepec"
+    },
+    {
+        "value": "190",
+        "label": "Totoltepec de Guerrero"
+    },
+    {
+        "value": "191",
+        "label": "Tulcingo"
+    },
+    {
+        "value": "192",
+        "label": "Tuzamapan de Galeana"
+    },
+    {
+        "value": "193",
+        "label": "Tzicatlacoyan"
+    },
+    {
+        "value": "194",
+        "label": "Venustiano Carranza"
+    },
+    {
+        "value": "195",
+        "label": "Vicente Guerrero"
+    },
+    {
+        "value": "196",
+        "label": "Xayacatl\u00e1n de Bravo"
+    },
+    {
+        "value": "197",
+        "label": "Xicotepec"
+    },
+    {
+        "value": "198",
+        "label": "Xicotl\u00e1n"
+    },
+    {
+        "value": "199",
+        "label": "Xiutetelco"
+    },
+    {
+        "value": "200",
+        "label": "Xochiapulco"
+    },
+    {
+        "value": "201",
+        "label": "Xochiltepec"
+    },
+    {
+        "value": "202",
+        "label": "Xochitl\u00e1n de Vicente Su\u00e1rez"
+    },
+    {
+        "value": "203",
+        "label": "Xochitl\u00e1n Todos Santos"
+    },
+    {
+        "value": "204",
+        "label": "Yaon\u00e1huac"
+    },
+    {
+        "value": "205",
+        "label": "Yehualtepec"
+    },
+    {
+        "value": "206",
+        "label": "Zacapala"
+    },
+    {
+        "value": "207",
+        "label": "Zacapoaxtla"
+    },
+    {
+        "value": "208",
+        "label": "Zacatl\u00e1n"
+    },
+    {
+        "value": "209",
+        "label": "Zapotitl\u00e1n"
+    },
+    {
+        "value": "210",
+        "label": "Zapotitl\u00e1n de M\u00e9ndez"
+    },
+    {
+        "value": "211",
+        "label": "Zaragoza"
+    },
+    {
+        "value": "212",
+        "label": "Zautla"
+    },
+    {
+        "value": "213",
+        "label": "Zihuateutla"
+    },
+    {
+        "value": "214",
+        "label": "Zinacatepec"
+    },
+    {
+        "value": "215",
+        "label": "Zongozotla"
+    },
+    {
+        "value": "216",
+        "label": "Zoquiapan"
+    },
+    {
+        "value": "217",
+        "label": "Zoquitl\u00e1n"
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "@montealegreluis/testing",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "~1.14",
+    "requirejs": "~2.1"
+  },
+  "scripts": {
+    "test": "node ./specs-runner.js"
+  }
+}

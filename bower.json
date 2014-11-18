@@ -1,0 +1,29 @@
+{
+  "name": "Unit testing UI",
+  "version": "0.1",
+  "homepage": "http://montealegreluis.com",
+  "authors": [
+    "Luis Montealegre <montealegreluis@gmail.com>"
+  ],
+  "description": "Demo application: Unit testing UI",
+  "keywords": [
+    "testing",
+    "ui",
+    "jquery",
+    "jasmine"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "spec"
+  ],
+  "dependencies": {
+    "jquery": "~2.1",
+    "bootstrap": "~3.3",
+    "requirejs": "~2.1",
+    "twig.js": "~0.7.2"
+  }
+}
