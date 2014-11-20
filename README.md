@@ -18,4 +18,4 @@ $ npm test
 
 The untestable example is in the file `start.html` and the testable one is in `index.html`.
 
-[1]: https://github.com/MontealegreLuis/blog/blob/master/source/_posts/2014-11-17-testing-con-jasmine.md
+[1]: http://www.montealegreluis.com/blog/2014/11/17/testing-con-jasmine/
